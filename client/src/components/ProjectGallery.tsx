@@ -40,7 +40,7 @@ const projects: Project[] = [
     description:
       "A cinematic corporate AVP capturing the company's strategic vision through interviews, aerial footage, and motion graphics. Delivered across internal and external channels.",
     image:
-      "https://private-us-east-1.manuscdn.com/sessionFile/rKrXyqvjqVkAyXFfFimhym/sandbox/0yTS1VSvi5Se9PewRI246k-img-1_1770833767000_na1fn_Z2FsbGVyeS1jb3Jwb3JhdGU.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcktyWHlxdmpxVmtBeVhGZkZpbWh5bS9zYW5kYm94LzB5VFMxVlN2aTVTZTlQZXdSSTI0NmstaW1nLTFfMTc3MDgzMzc2NzAwMF9uYTFmbl9aMkZzYkdWeWVTMWpiM0p3YjNKaGRHVS5qcGc~eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsd18xOTIwLGhfMTkyMC9mb3JtYXQsd2VicC9xdWFsaXR5LHFfODAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=UxTKWfElb9eFjiHM7IG5rJb11K0eCulWU~TG5regn4JZXGMPPxIYuVJezMeUMJ3vwLQQ4FeW~QIhpvHVl8WYUuwAIx7blcjaRHVcaKv0G2UuvpSBroimfqeSDuoLX2qb9QbKmmjVCEO~DFyKUJPYzyWYadOdoSv9T2ChuRmxh3teN4QOhqkVAnAMbofMHQKqbl41E5Q1m19aHiTqWWT4LTk2XmRyKIopIDEmHXYXoiJmC5-RhAAE7VoTs4576eRSpBRhT0ki3gmm3VasDkzYhomqob3f-9~bpi95GVqW4U2bgctJFwpWEX8A3QnxwbOqWAtSNK6-QJlFJ7gS7GFUDg__",
+      "/images/gallery-corporate.webp",
     year: "2025",
     tags: ["AVP", "Motion Graphics", "Aerial"],
     youtubeId: "pWB2v9DgOxg",
@@ -53,7 +53,7 @@ const projects: Project[] = [
     description:
       "A mouth-watering TV commercial for Ihaw On The Go's signature pork BBQ. Shot with cinematic food photography techniques, dramatic steam, and warm golden lighting to evoke appetite appeal.",
     image:
-      "https://private-us-east-1.manuscdn.com/sessionFile/rKrXyqvjqVkAyXFfFimhym/sandbox/0yTS1VSvi5Se9PewRI246k-img-2_1770833770000_na1fn_Z2FsbGVyeS1jb21tZXJjaWFs.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcktyWHlxdmpxVmtBeVhGZkZpbWh5bS9zYW5kYm94LzB5VFMxVlN2aTVTZTlQZXdSSTI0NmstaW1nLTJfMTc3MDgzMzc3MDAwMF9uYTFmbl9aMkZzYkdWeWVTMWpiMjF0WlhKamFXRnMuanBnP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Tp7vwhjuJluokpnlTMod9GWd7K8Gw6w5hBsAvzCnIdcjlnNS5QPLHGNEKBUxdDCmW7CpXU3MR1jDg4qWmcJoVRuScIbaJ69hrcvDf8vrgGZcfM5SF2csCJOxtBgBpE8RurCY-LplUcoh-V5Gh75nVcnr-Z~IoQV3TXGrUw9xKCLTXgcAmeCg95~8BFqkGGI9XLIme1NS~nhsqbd-n0oWu~rV3wKmvyayK7rjXG6YDO1CB1Su809lEzxDokOMxugr34lHWyms4A3OGqt7zUYg0No8InN4izjwEpsyKIMKjDT5uWf-bFVAJCz8MN5DPe8lC0QdaM~h-Mg5wGhZ67~kwQ__",
+      "/images/gallery-commercial.webp",
     year: "2024",
     tags: ["TVC", "Food", "30s Spot"],
     youtubeId: "poseITACRhA",
@@ -66,7 +66,7 @@ const projects: Project[] = [
     description:
       "A premium product film for Hublot's luxury watch collection. Shot on a reflective black surface with dramatic teal and amber gel lighting, capturing every detail of the timepiece's craftsmanship.",
     image:
-      "https://private-us-east-1.manuscdn.com/sessionFile/rKrXyqvjqVkAyXFfFimhym/sandbox/0yTS1VSvi5Se9PewRI246k-img-3_1770833755000_na1fn_Z2FsbGVyeS1icmFuZGluZw.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcktyWHlxdmpxVmtBeVhGZkZpbWh5bS9zYW5kYm94LzB5VFMxVlN2aTVTZTlQZXdSSTI0NmstaW1nLTNfMTc3MDgzMzc1NTAwMF9uYTFmbl9aMkZzYkdWeWVTMWljbUZ1WkdsdVp3LmpwZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=CxQT0f5dZtnta23ggDV0IkNOlm29kQXp3iUKX0CeZ9cOgPnmmG4N5dc5ENE~WVIEFIX3kx2FpaxS0QGmPjAVA3r9~CeoMXHMNZOlB-xVescaQFGYqIL2RtbLOB56vAGDN~ciTrHVvv2xkBXYI1d1QrMHUmX50k5FjBpiQC~NqDiq04N8iEE2nd7Fx7nquL2JohvY9moLcvzWE5hNO7PrCgPSLP1tpOcp5Mfw1PvsYFyJZVkSMbGu9BkQk~6QgpjKvTsIxm8glUXKQIWOvcBKzWwqLRvqbWlNjujIM5oTHHdVgD4heV1-jnW0-76MGrBnFCAtfeNjyZIC2tq3SiuuDw__",
+      "/images/gallery-branding.webp",
     year: "2024",
     tags: ["Product Film", "Luxury", "Studio"],
     youtubeId: "LQccx7bRYSk",
@@ -79,7 +79,7 @@ const projects: Project[] = [
     description:
       "A compelling short film exploring themes of love and resilience. Beautifully shot with intimate cinematography and natural lighting, showcasing MIH's storytelling capabilities beyond commercial work.",
     image:
-      "https://private-us-east-1.manuscdn.com/sessionFile/rKrXyqvjqVkAyXFfFimhym/sandbox/0yTS1VSvi5Se9PewRI246k-img-4_1770833760000_na1fn_Z2FsbGVyeS1zb2NpYWw.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcktyWHlxdmpxVmtBeVhGZkZpbWh5bS9zYW5kYm94LzB5VFMxVlN2aTVTZTlQZXdSSTI0NmstaW1nLTRfMTc3MDgzMzc2MDAwMF9uYTFmbl9aMkZzYkdWeWVTMXpiMk5wWVd3LmpwZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=hLYR1BLZbTR0XKMDXZt7iTGiyR2bDPmzltyZMoN7RBh2P1qbEfTCarcxWl5RKkdtbirw4iVzxbkLyiVVLIGJn6HKGaOIpiptgoljS3oifjibev9GhaeQS8fRHCOqa1uCF4yUt7mbpdUYMxhhK6pRQT-R0vu9gpk8H81h7WuIbnrCO4RefsZvkij9aRmpjSBaLlLUUqNVOkZ3-JDY1xHmo9STRapUHKMhMbT7gloeADDkh2D0YmbOd4gFXQDtjui5Yw6FhlHFRGNfEMh4GxG4iUBb03ut26NEPM1-ZH0XxLtHcLjgZIPTTLNefDg-I1v20kaTQP4K5XukeYh5iV1iUQ__",
+      "/images/gallery-social.webp",
     year: "2024",
     tags: ["Short Film", "Drama", "Narrative"],
     youtubeId: "Om4Ajpm-zh4",
@@ -92,7 +92,7 @@ const projects: Project[] = [
     description:
       "A full-length drama special produced for MichaelAngelo. Multi-camera production with professional lighting, sound design, and post-production. Showcasing MIH's capability to deliver broadcast-quality content.",
     image:
-      "https://private-us-east-1.manuscdn.com/sessionFile/rKrXyqvjqVkAyXFfFimhym/sandbox/0yTS1VSvi5Se9PewRI246k-img-5_1770833766000_na1fn_Z2FsbGVyeS1ldmVudA.jpg?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcktyWHlxdmpxVmtBeVhGZkZpbWh5bS9zYW5kYm94LzB5VFMxVlN2aTVTZTlQZXdSSTI0NmstaW1nLTVfMTc3MDgzMzc2NjAwMF9uYTFmbl9aMkZzYkdWeWVTMWxkbVZ1ZEEuanBnP3gtb3NzLXByb2Nlc3M9aW1hZ2UvcmVzaXplLHdfMTkyMCxoXzE5MjAvZm9ybWF0LHdlYnAvcXVhbGl0eSxxXzgwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=rxyRrnkxXWmUk3W-iuMb~PMn2StstuXP6fBw8Hvt9wfi-rx7onjVhbWFbt3y1l-wHvTSkAR45O6cgetIdBKOaECbhfph9Su89pTpY2iegU3A7Jm7FnaJbSgUZNnVQHH4esthyYk-jv-MDqCSCBwX7JGpIz9OMfHa-rSSvFAFWtQgt3mHAgc~yBTk5icgrAqxna4u7pR9O3SSKp6qTKHxQ8uW0Tb3Ojn5EkKrZ-sApdcDBsV4Yfa0MF-Ifnyfsw0Xr4mV~AilX8eH5kZBp7Bkt1wWgQuFOu63nH8NbO6RRHrgRO4B~uoTQi1G2qZalV-mQPsPzH3EUAReu8w8GL9QlA__",
+      "/images/gallery-event.webp",
     year: "2024",
     tags: ["Drama Special", "Multi-Cam", "Broadcast"],
     youtubeId: "pWB2v9DgOxg",

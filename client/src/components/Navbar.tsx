@@ -77,7 +77,7 @@ export default function Navbar() {
             className="flex items-center gap-3 group z-50"
           >
             <img
-              src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/kJoupaxDnARjakkM.png"
+              src="/images/mih-logo.png"
               alt="MIH Productions Logo"
               className="h-10 md:h-12 w-auto object-contain group-hover:brightness-110 transition-all duration-300"
             />

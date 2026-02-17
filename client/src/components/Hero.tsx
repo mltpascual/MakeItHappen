@@ -7,8 +7,7 @@
 import { useEffect, useState, useRef, useCallback } from "react";
 import { ChevronDown } from "lucide-react";
 
-const HERO_BG =
-  "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/NruhefkPRyjHbRrx.jpg";
+const HERO_BG = "/images/hero-bg.jpg";
 
 export default function Hero() {
   const [loaded, setLoaded] = useState(false);

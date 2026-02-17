@@ -5,8 +5,7 @@
  */
 import { useState, useEffect } from "react";
 
-const LOGO_URL =
-  "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/kJoupaxDnARjakkM.png";
+const LOGO_URL = "/images/mih-logo.png";
 
 interface SplashScreenProps {
   onComplete: () => void;

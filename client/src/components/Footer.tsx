@@ -15,7 +15,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="flex items-center gap-3">
             <img
-              src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/kJoupaxDnARjakkM.png"
+              src="/images/mih-logo.png"
               alt="MIH Productions Logo"
               className="h-8 w-auto object-contain"
             />

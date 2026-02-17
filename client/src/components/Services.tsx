@@ -17,14 +17,10 @@ import {
   Sparkles,
 } from "lucide-react";
 
-const IMG_VIDEO =
-  "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/VqHhclKGwOEkTtQK.jpg";
-const IMG_BRANDING =
-  "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/IzfpUWxNADwZgCuU.jpg";
-const IMG_SOCIAL =
-  "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/EcTSzENuEkXezMde.jpg";
-const IMG_COMMERCIAL =
-  "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/BKPTYJkhTplVEAFC.jpg";
+const IMG_VIDEO = "/images/services-bg-1.jpg";
+const IMG_BRANDING = "/images/services-bg-2.jpg";
+const IMG_SOCIAL = "/images/services-bg-3.jpg";
+const IMG_COMMERCIAL = "/images/services-bg-4.jpg";
 
 const services = [
   {

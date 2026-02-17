@@ -6,9 +6,9 @@
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { ArrowUpRight } from "lucide-react";
 
-const IMG_1 = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/CWwyQYZNVwDQiMUJ.jpg";
-const IMG_2 = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/sJSNUBrrwlnMjcGY.jpg";
-const IMG_3 = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/llklTQWnjWgkSzbC.jpg";
+const IMG_1 = "/images/work-1.jpg";
+const IMG_2 = "/images/work-2.jpg";
+const IMG_3 = "/images/work-3.jpg";
 
 const projects = [
   {

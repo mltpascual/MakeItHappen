@@ -7,7 +7,7 @@
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { useParallax } from "@/hooks/useParallax";
 
-const ABOUT_BG = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663343684150/khLjfAMzVXtVySJW.jpg";
+const ABOUT_BG = "/images/about-bg.jpg";
 
 const stats = [
   { value: "10+", label: "Years of Experience" },
